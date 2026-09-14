@@ -1,4 +1,4 @@
-# ISCE Marketplace Backend
+# Marketplace Backend
 
 A production-oriented marketplace backend designed for a multi-vendor commerce ecosystem. This project models the core backend operations behind a digital marketplace, including vendor onboarding, store management, product cataloging, cart and checkout flows, payments, inventory, fulfillment, refunds, compliance, notifications, and analytics.
 
